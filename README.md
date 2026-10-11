@@ -38,6 +38,8 @@ retention insights through interactive dashboards and deep-dive analysis.
 
 ## 📈 Dashboard Preview
 <img width="1676" height="725" alt="hr_dashborad" src="https://github.com/user-attachments/assets/2b6d6f4e-46cb-4636-8e78-843aaaff42b8" />
+<img width="1472" height="717" alt="Hr_Reports" src="https://github.com/user-attachments/assets/f7c320dc-265e-4139-a739-e6dc0f8520ad" />
+
 
 
 ## 💡 Recommendations
